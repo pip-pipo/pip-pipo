@@ -51,12 +51,12 @@
 
 
 
-<hr>
+
 <br>
 
 
-
- <summary> ###:zap: GitHub Stats</summary>
+<hr>
+ ###GitHub Stats:
 
   <img align="left" alt="Md-Morsalin's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pip-pipo&show_icons=true&hide_border=true" />
 
