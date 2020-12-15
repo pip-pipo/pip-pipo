@@ -36,7 +36,8 @@
 <br>
 <hr>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pip-pipo)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="left" alt="Md-Morsalin's GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=pip-pipo&show_icons=true&hide_border=true" />
 
 <hr>
  ###GitHub Stats:
