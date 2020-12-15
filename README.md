@@ -18,7 +18,6 @@
 <p align="center">
 	<a href="https://github.com/pip-pipo"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/MrMorsalin1"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a>
-	<a href=https://www.instagram.com/pyjonathon"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="https://img.shields.io/badge/Instragram--_.svg?style=social&logo=Instragram" alt="LinkedIn"></a>
 	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
@@ -63,7 +62,7 @@
 
  ### GitHub Stats:
 
-  <img align="left" alt="Md-Morsalin's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pip-pipo&show_icons=true&hide_border=true" />
+  <img align="left" alt="Md-Morsalin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pip-pipo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 
 
