@@ -11,12 +11,7 @@
 - ⚡ Fun fact: I love to Travel and play online Games/Programming
 
 <hr>
-<link rel="stylesheet" href="https://unpkg.com/@coreui/icons/css/all.min.css">
-##Contact With Me:
-<a href="" alt="" ><i class="cib-twitter"></i></a>
-<a href="" alt=""><i class="cib-instagram"></i></a>
-<a href="" alt=""><i class="cib-facebook"></i></a>
-<a href="" alt=""><i class="cis-globe"></i></a>
+
 
 
 ### Languages and Tools:
@@ -38,25 +33,15 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br>
+<hr>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pip-pipo)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
  ###GitHub Stats:
 
   <img align="left" alt="Md-Morsalin's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pip-pipo&show_icons=true&hide_border=true" />
+
+
 
