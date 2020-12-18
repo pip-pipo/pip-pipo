@@ -1,4 +1,4 @@
-### Hi there I am Morsalin or you can say me (pip-pipo) 👋
+### Hi there I am Morsalin :) 👋
 
 <hr>
 
