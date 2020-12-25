@@ -15,7 +15,7 @@
 <!--
 **pip-pipo/pip-pipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 -->
-## I am a Web Programmer and  A  Freelancer 
+## I am a Full Stack Web Developer & Programmer also  A  Freelancer 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
