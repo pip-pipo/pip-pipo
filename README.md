@@ -2,7 +2,7 @@
 
 <hr>
 
-<img src="wall-wallpaper-concrete-colored-painted-textured-concept_53876-31799.jpg" alt="img" />
+<img width="100%" height="30%" src="wall-wallpaper-concrete-colored-painted-textured-concept_53876-31799.jpg" alt="img" />
 
 
 <p align="center">
