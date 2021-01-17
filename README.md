@@ -1,5 +1,9 @@
 ### Hi there I am Morsalin :) 👋
 
+```
+ Full stack web developer , specializiing in mostly JS, but also write Python, PHP and some other stuff.
+```
+
 <hr>
 
 
@@ -23,12 +27,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Travel and play online Games/Programming
 - 📍 Location: Dhaka/Bangladesh :bangladesh: 
-
-
-
-
-
-
 
 
 
