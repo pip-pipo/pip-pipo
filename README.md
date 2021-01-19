@@ -9,6 +9,7 @@
 
 
 <p align="center">
+	![GitHub Repo stars](https://img.shields.io/github/stars/pip-pipo/React_Robot-army_litle_project?style=social)
 	![GitHub Repo stars](https://img.shields.io/github/followers/pip-pipo?style=social)
 	<a href="https://github.com/pip-pipo"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/MrMorsalin1"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a>
