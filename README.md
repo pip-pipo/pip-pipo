@@ -1,4 +1,4 @@
-### Hi there I am Morsalin :) 👋
+### Hi there I am Morsalin :) 👋 <img src="https://img.shields.io/badge/Profile-BiP-brightgreen" alt="bip">
 
 ```
  Full stack web developer , specializiing in mostly JS, but also write Python, PHP and some other stuff.
