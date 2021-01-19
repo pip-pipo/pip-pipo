@@ -8,9 +8,8 @@
 
 
 
-<p align="center">
-	![GitHub Repo stars](https://img.shields.io/github/stars/pip-pipo/React_Robot-army_litle_project?style=social)
-	![GitHub Repo stars](https://img.shields.io/github/followers/pip-pipo?style=social)
+<p align=
+	<img src="https://img.shields.io/github/followers/pip-pipo?style=social" alt="img"/>
 	<a href="https://github.com/pip-pipo"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/MrMorsalin1"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://https://www.linkedin.com/in/md-morsalin-b0a3b51b6/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=LinkedIn" alt="LinkedIn"></a>
