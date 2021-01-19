@@ -1,5 +1,5 @@
 ### Hi there I am Morsalin :) 👋 <img src="https://img.shields.io/badge/Profile-BiP-brightgreen" alt="bip">
-
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/pip-pipo?style=social">
 ```
  Full stack web developer , specializiing in mostly JS, but also write Python, PHP and some other stuff.
 ```
