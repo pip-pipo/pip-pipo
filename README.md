@@ -1,5 +1,5 @@
-### Hi there I am Morsalin :) 👋 <img src="https://img.shields.io/badge/Profile-BiP-brightgreen" alt="bip">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/pip-pipo?style=social">
+### Hi there I am Morsalin :) 👋 <img alt="GitHub followers" src="https://img.shields.io/github/followers/pip-pipo?style=social">
+
 
 
 ```
