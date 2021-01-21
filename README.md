@@ -67,10 +67,7 @@ Full stack web developer , specializiing in mostly JS, but also write Python, PH
 
 
 
-<hr>
-
-
-<h2>📊 Weekly development breakdown: </h2>
+### <h2>📊 Weekly development breakdown: </h2>
 
 
 ```text
