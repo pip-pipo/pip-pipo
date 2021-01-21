@@ -7,7 +7,7 @@
 
 
 
-## Full stack web developer , specializiing in mostly JS, but also write Python, PHP and some other stuff. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+### Full stack web developer , specializiing in mostly JS, but also write Python, PHP and some other stuff. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 
  
