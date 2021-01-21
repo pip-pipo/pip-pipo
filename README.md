@@ -75,8 +75,8 @@ Full stack web developer , specializiing in mostly JS, but also write Python, PH
 
 ```text
 Python         9 hrs 35 mins       ██████░░░░     63.35%
-Kaggle         2 hrs 26 mins       █░░░░░░░░░     16.16%
-JavaScript     1 hr 18 mins        ░░░░░░░░░░     8.68%
+React          2 hrs 26 mins       ███████░░░     69.16%
+JavaScript     1 hr 18 mins        ██████░░░░     65.68%
 ```
 
 
