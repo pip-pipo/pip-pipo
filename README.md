@@ -6,8 +6,8 @@
 
 
 *** 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-Full stack web developer , specializiing in mostly JS, but also write Python, PHP and some other stuff. <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+Full stack web developer , specializiing in mostly JS, but also write Python, PHP and some other stuff. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 ***
  
