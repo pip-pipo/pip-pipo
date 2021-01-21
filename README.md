@@ -3,7 +3,11 @@
 
 
 
-*** Full stack web developer , specializiing in mostly JS, but also write Python, PHP and some other stuff. ***
+*** 
+
+Full stack web developer , specializiing in mostly JS, but also write Python, PHP and some other stuff.
+
+***
  
 
 
