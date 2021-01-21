@@ -88,4 +88,4 @@ JavaScript     1 hr 18 mins        ██████░░░░     65.68%
 
 ### 🧑‍💻  This week, I spent my time on:
 
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pip-pipo&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
+[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pippipo&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
