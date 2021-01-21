@@ -2,7 +2,7 @@
 
  ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg) <img alt="GitHub followers" src="https://img.shields.io/github/followers/pip-pipo?style=social">
 
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pip-pipo.pip-pipo)
 
 
 
@@ -86,6 +86,4 @@ JavaScript     1 hr 18 mins        ██████░░░░     65.68%
   <img align="left" alt="Md-Morsalin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pip-pipo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 
-### 🧑‍💻  This week, I spent my time on:
 
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pippipo&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
