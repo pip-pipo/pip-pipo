@@ -65,7 +65,7 @@ Full stack web developer , specializiing in mostly JS, but also write Python, PH
 <img align="left" alt="Terminal" width="30px" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT0Ob5L4gIPX5HisYyqVvucLD_O0xKu2CCKA&usqp=CAU" />
 
 
-
+<br>
 
 ### <h2>📊 Weekly development breakdown: </h2>
 
@@ -76,7 +76,15 @@ React          2 hrs 26 mins       ███████░░░     69.16%
 JavaScript     1 hr 18 mins        ██████░░░░     65.68%
 ```
 
+## &#x1f4c8; GitHub Stats
 
+<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pip-pipo&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="pip-pipo GitHub Stats" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pip-pipo&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="pip-pipo GitHub Stats" />
+</a>
 
 
  ### GitHub Stats:
