@@ -1,13 +1,12 @@
 ### <h2> Hi, I'm Md Morsalin ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+
+
  ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg) <img alt="GitHub followers" src="https://img.shields.io/github/followers/pip-pipo?style=social">
 
-<--![visitors](https://visitor-badge.laobi.icu/badge?page_id=pip-pipo.pip-pipo)-->
 
 
-
-
-### Full stack web developer , specializiing in mostly JS, but also write Python, PHP and some other stuff. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+#### Full stack web developer , specializiing in mostly JS, but also write Python, PHP and some other stuff. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 
  
