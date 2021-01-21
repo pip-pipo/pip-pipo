@@ -11,10 +11,6 @@ Full stack web developer , specializiing in mostly JS, but also write Python, PH
  
 
 
-<hr>
-
-
-
 <p align="center">
 	<a href="https://github.com/pip-pipo"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/MrMorsalin1"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a>
