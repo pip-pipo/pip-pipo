@@ -1,7 +1,6 @@
-### Hi there I am Morsalin :) 👋 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/pip-pipo?style=social">
+### <h2> Hi, I'm Md Morsalin ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg) <img alt="GitHub followers" src="https://img.shields.io/github/followers/pip-pipo?style=social">
 
 
 
@@ -65,6 +64,9 @@ Full stack web developer , specializiing in mostly JS, but also write Python, PH
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="30px" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT0Ob5L4gIPX5HisYyqVvucLD_O0xKu2CCKA&usqp=CAU" />
 
+
+
+
 <hr>
 
 
@@ -76,6 +78,8 @@ Python         9 hrs 35 mins       ██████░░░░     63.35%
 Kaggle         2 hrs 26 mins       █░░░░░░░░░     16.16%
 JavaScript     1 hr 18 mins        ░░░░░░░░░░     8.68%
 ```
+
+
 
 
  ### GitHub Stats:
