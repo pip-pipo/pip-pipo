@@ -13,14 +13,13 @@
 
 
 <p align="center">
-	
-
- ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg) <img alt="GitHub followers" src="https://img.shields.io/github/followers/pip-pipo?style=social">
-
 	<a href="https://github.com/pip-pipo"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/MrMorsalin1"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://https://www.linkedin.com/in/md-morsalin-b0a3b51b6/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=LinkedIn" alt="LinkedIn"></a>
-	<a href="https://www.reddit.com/user/MdMorsalin6"><img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/MdMorsalin6?style=social"> </a>  
+
+ ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg) <img alt="GitHub followers" src="https://img.shields.io/github/followers/pip-pipo?style=social">
+
+<a href="https://www.reddit.com/user/MdMorsalin6"><img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/MdMorsalin6?style=social"> </a>  
 </p>
 
 <!--<img width="" height="" src="logo.png" alt="img" />-->
