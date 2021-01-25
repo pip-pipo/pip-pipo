@@ -1,6 +1,4 @@
 ### <h2> Hi, I'm Md Morsalin ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>  
-<img align="center" width="90px" height="90px" src="https://res.cloudinary.com/codecaamp/image/upload/v1611558085/SAMPLE_PROJECT_eodbav.svg" alt="img" />
-
 
 
 
@@ -39,7 +37,9 @@
 
 <hr>
 
-### Languages and Tools:
+### Languages and Tools: <img align="center" width="70px" height="70px" src="https://res.cloudinary.com/codecaamp/image/upload/v1611558085/SAMPLE_PROJECT_eodbav.svg" alt="img" />
+
+
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
