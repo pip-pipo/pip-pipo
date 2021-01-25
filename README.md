@@ -1,11 +1,6 @@
 ### <h2> Hi, I'm Md Morsalin ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
-<div align="center">
-	
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/pip-pipo?style=social"> ![Visitor Count](https://komarev.com/ghpvc/?username=pip-pipo&color=brightgreen)
-	
-</div>
 
 
 
@@ -15,6 +10,7 @@
 
 
 <p align="center">
+	<img alt="GitHub followers" src="https://img.shields.io/github/followers/pip-pipo?style=social"> ![Visitor Count](https://komarev.com/ghpvc/?username=pip-pipo&color=brightgreen)
 	<a href="https://github.com/pip-pipo"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/MrMorsalin1"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://https://www.linkedin.com/in/md-morsalin-b0a3b51b6/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=LinkedIn" alt="LinkedIn"></a>
