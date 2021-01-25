@@ -2,7 +2,7 @@
 
 
 
- ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg) <img alt="GitHub followers" src="https://img.shields.io/github/followers/pip-pipo?style=social">
+ ![Visitor Count](https://profile-counter.glitch.me/pip-pipo/count.svg) <img alt="GitHub followers" src="https://img.shields.io/github/followers/pip-pipo?style=social">
 
 
    
