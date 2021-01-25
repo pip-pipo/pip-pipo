@@ -1,6 +1,6 @@
 ### <h2> Hi, I'm Md Morsalin ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
- <video src="https://cloud.githubusercontent.com/assets/38/24514552/88f29edc-1529-11e7-832f-6d2942144c87.gif" width="200px"></video>
+
 
  ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg) <img alt="GitHub followers" src="https://img.shields.io/github/followers/pip-pipo?style=social">
 
