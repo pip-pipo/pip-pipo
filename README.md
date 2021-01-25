@@ -4,7 +4,7 @@
 
  ![Visitor Count](https://profile-counter.glitch.me/pip-pipo/count.svg) <img alt="GitHub followers" src="https://img.shields.io/github/followers/pip-pipo?style=social">
 
-
+![](https://komarev.com/ghpvc/?username=pip-pipo&color=brightgreen)
    
     
 
