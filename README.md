@@ -1,17 +1,15 @@
 ### <h2> Hi, I'm Md Morsalin ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
-
+<div align="center">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/pip-pipo?style=social"> ![Visitor Count](https://komarev.com/ghpvc/?username=pip-pipo&color=brightgreen)
+</div>
 
 
-   
-    
 
 #### Full stack web developer , specializiing in mostly JS, but also write Python, PHP and some other stuff. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 
- 
 
 
 <p align="center">
