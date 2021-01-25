@@ -11,7 +11,7 @@
 <a href="https://www.reddit.com/user/MdMorsalin6"><img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/MdMorsalin6?style=social"> </a>  
 </div>
 
-<!--<img width="" height="" src="logo.png" alt="img" />-->
+<img width="" height="" src="https://res.cloudinary.com/codecaamp/image/upload/v1611558085/SAMPLE_PROJECT_eodbav.svg" alt="img" />
 
 <!--
 **pip-pipo/pip-pipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
