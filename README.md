@@ -16,9 +16,9 @@
 <!--
 **pip-pipo/pip-pipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 -->
-#### I am a Full Stack Web Developer & Programmer also  A  Freelancer .. specializiing in mostly JS, but also write Python, PHP and some other stuff. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+#### I am a Full Stack Web Developer & Programmer also  A  Freelancer .. specializiing in mostly JS, but also write Python, PHP and some other stuff. 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 🤣 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Travel and play online Games/Programming
