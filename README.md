@@ -1,6 +1,10 @@
 ### <h2> Hi, I'm Md Morsalin ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
 
 
+<img align="center" width="200px" height="200px" src="https://res.cloudinary.com/codecaamp/image/upload/v1611558085/SAMPLE_PROJECT_eodbav.svg" alt="img" />
+
+
+
 <div align="center">
  
 ![Visitor Count](https://komarev.com/ghpvc/?username=pip-pipo&color=brightgreen)
@@ -11,7 +15,7 @@
 <a href="https://www.reddit.com/user/MdMorsalin6"><img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/MdMorsalin6?style=social"> </a>  
 </div>
 
-<img width="" height="" src="https://res.cloudinary.com/codecaamp/image/upload/v1611558085/SAMPLE_PROJECT_eodbav.svg" alt="img" />
+
 
 <!--
 **pip-pipo/pip-pipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
