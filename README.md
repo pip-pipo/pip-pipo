@@ -1,11 +1,6 @@
-### <h2> Hi, I'm Md Morsalin ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+### <h2> Hi, I'm Md Morsalin ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
 
-
-
-
-
-#### Full stack web developer , specializiing in mostly JS, but also write Python, PHP and some other stuff. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-
+### Full stack web developer , specializiing in mostly JS, but also write Python, PHP and some other stuff. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 
 
