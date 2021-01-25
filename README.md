@@ -4,6 +4,7 @@
 
 
 <div align="center">
+ <img width="70px" height="70px" src="https://res.cloudinary.com/codecaamp/image/upload/v1611558085/SAMPLE_PROJECT_eodbav.svg" alt="img" /> 
  
 ![Visitor Count](https://komarev.com/ghpvc/?username=pip-pipo&color=brightgreen)
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/pip-pipo?style=social"> 
@@ -18,7 +19,7 @@
 <!--
 **pip-pipo/pip-pipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 -->
-#### I am a Full Stack Web Developer & Programmer also  A  Freelancer .. specializiing in mostly JS, but also write Python, PHP and some other stuff.  <img width="70px" height="70px" src="https://res.cloudinary.com/codecaamp/image/upload/v1611558085/SAMPLE_PROJECT_eodbav.svg" alt="img" />
+#### I am a Full Stack Web Developer & Programmer also  A  Freelancer .. specializiing in mostly JS, but also write Python, PHP and some other stuff.
 
 - 🌱 I’m currently learning everything 🤣 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 - 👯 I’m looking to collaborate with other content creators
