@@ -1,7 +1,4 @@
-### <h2> Hi, I'm Md Morsalin ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img width="70px" height="70px" src="https://res.cloudinary.com/codecaamp/image/upload/v1611558085/SAMPLE_PROJECT_eodbav.svg" alt="img" /> 
-
-
-
+### <h2> Hi, I'm Md Morsalin ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <div align="center">
  
