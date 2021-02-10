@@ -22,7 +22,6 @@
 - 📍 Location: Dhaka/Bangladesh :bangladesh: 
 
 
-
 <hr>
 
 ### Spotify Playing 🎧
@@ -67,7 +66,6 @@ JavaScript     1 hr 18 mins        ██████░░░░     65.68%
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pip-pipo&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 
  ### GitHub Stats:
 
