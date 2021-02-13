@@ -58,6 +58,7 @@
 ### <h2>📊 Weekly development breakdown: </h2>
 
 
+
 ```text
 Python         9 hrs 35 mins       ██████░░░░     63.35%
 React          2 hrs 26 mins       ███████░░░     69.16%
