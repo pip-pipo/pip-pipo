@@ -74,17 +74,10 @@ JavaScript     1 hr 18 mins        ██████░░░░     65.68%
   <img align="left" alt="Md-Morsalin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pip-pipo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 
-# 😍
 
 
-<img alt="🦑" align="center" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.svg">
-<img alt="🦑" align="center" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.projects.svg">
 <img alt="🦑" align="center" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.topics.mastered.svg">
-<img alt="🦑" align="center" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.pagespeed.svg">
 <img alt="🦑" align="center" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.music.playlist.svg">
 <img alt="🦑" align="center" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.personal.anilist.svg">
-<img alt="🦑" align="center" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.additional.svg">
-<img alt="🦑" align="center" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.activity.svg">
-<img alt="🦑" align="center" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.skyline.svg">
 
 
