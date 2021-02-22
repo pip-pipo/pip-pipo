@@ -80,7 +80,7 @@ JavaScript     1 hr 18 mins        ██████░░░░     65.68%
 
 
 
-<img width:"100%" style="margin:auto;" alt="🦑" align="center" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.topics.mastered.svg">
+<img width:"100%"  alt="🦑" align="center" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.topics.mastered.svg">
 
 
 
