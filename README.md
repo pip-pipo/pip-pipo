@@ -75,13 +75,12 @@ JavaScript     1 hr 18 mins        ██████░░░░     65.68%
 
 
 <br>
+<hr>
 
-##  Learning Process or Want to Learn These
-
-
+###  Learning Process or Want to Learn These:
 <div align="center">
  <img   alt="🦑" align="center" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.topics.mastered.svg">
- </div>
+</div>
 
 
 
