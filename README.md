@@ -62,9 +62,6 @@ JavaScript     1 hr 18 mins        ██████░░░░     65.68%
 
 <br>
 
-<hr>
-
-
 
 
 
