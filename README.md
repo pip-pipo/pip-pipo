@@ -24,10 +24,11 @@
 
 </div>
 
-
 <!--
 **pip-pipo/pip-pipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 -->
+
+
 #### I am a Full Stack Web Developer & Programmer also  A  Freelancer .. specializiing in mostly JS, but also write Python, PHP and some other stuff.
 
 - 🌱 I’m currently learning everything 🤣 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
@@ -61,7 +62,7 @@
 ```text
 Python         9 hrs 35 mins       ██████░░░░     63.35%
 React          2 hrs 26 mins       ███████░░░     69.16%
-JavaScript     1 hr 18 mins        ██████░░░░     65.68%
+JavaScript     1 hr 18 mins        █████████░    65.68%
 ```
 
 ## 🏆 GitHub Trophies
@@ -74,7 +75,5 @@ JavaScript     1 hr 18 mins        ██████░░░░     65.68%
 
 
 <br>
-
-
 
 
